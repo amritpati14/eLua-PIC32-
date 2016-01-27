@@ -4,7 +4,6 @@
 *.dfu
 *.o
 *.obj
-*.exe
 *.bin
 *.pyc
 inc/romfiles.h
