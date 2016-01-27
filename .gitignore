@@ -13,8 +13,6 @@ inc/romfiles.h
 .sconsign.dblite
 config.log
 .DS_Store
-mux*
-rfs_server*
 doc/dist
 doc/cache
 inc/git_version.h
@@ -23,6 +21,4 @@ inc/git_version.h
 luac.cross*
 boards/*.h
 sdcard.img
-core
-luarpc*
 *.map
